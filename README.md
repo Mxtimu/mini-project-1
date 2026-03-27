@@ -25,11 +25,11 @@ Updates the UI dynamically based on user interaction
 Includes basic styling for a clean and readable layout
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
-Fetch API
-Async and Await
+-HTML
+-CSS
+-JavaScript
+-Fetch API
+-Async and Await
 
 ## APIs Used
 Random User API
